@@ -1,2 +1,1 @@
-#!/bin/bash
-alx-system_engineering-devops
+shell ,init file, variables and expansion
